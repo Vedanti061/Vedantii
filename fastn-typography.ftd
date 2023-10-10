@@ -1,17 +1,17 @@
--- import: <user_name>.github.io/<repo_name>
+-- import: vedanti061.github.io/vedantii
 
 
 
--- site-doc.doc-home: <repo_name> package
-site-title: `<repo_name>`
+-- site-doc.doc-home: vedantii package
+site-title: `vedantii`
 show-tabs: false
-github-url: <user_name>.github.io/<repo_name>
-current-package: <user_name>.github.io/<repo_name>
+github-url: vedanti061.github.io/vedantii
+current-package: vedanti061.github.io/vedantii
 
-Below are our default fastn `inherited` font types of <repo_name>.
+Below are our default fastn `inherited` font types of vedantii.
 
 -- display-type:
-types: $<repo_name>.types
+types: $vedantii.types
 
 
 -- end: site-doc.doc-home
